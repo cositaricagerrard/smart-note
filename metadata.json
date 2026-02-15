@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SmartNote Pro",
+  "description": "An AI-powered note-taking and task management application that organizes ideas, summarizes content, and links notes using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
